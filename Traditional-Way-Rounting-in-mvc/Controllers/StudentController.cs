@@ -39,7 +39,7 @@ namespace Traditional_Way_Rounting_in_mvc.Controllers
         [Route("~/about-us")]
         [Route("~/aboutus")]
         public string aboutUs() 
-        {
+        { 
             return "This is a about us paage";
         }
 
